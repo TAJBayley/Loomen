@@ -1,5 +1,5 @@
 # Loomen
-Loomen is a product, made with a team of 7 2nd Year EEE students from Imperial College London, designed to aid injections in hospitals. Loomen achieves this by visualising veins using IR LEDs and a camera coupled with an IR pass filter. The image is then processed and the optimal area to inject is displayed on an iPad.
+Loomen is a product, made by a team of 7 2nd Year EEE students from Imperial College London, designed to aid injections in hospitals. Loomen achieves this by visualising veins using IR LEDs and a camera coupled with an IR pass filter. The image is then processed and the optimal area to inject is displayed on an iPad.
 
 <img src="Loomen%20Logo.png">
 <img src="Team%20Loomen.png">
